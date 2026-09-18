@@ -1,0 +1,69 @@
+{
+  "slug": "bodega-la-esquina",
+  "name": "Bodega La Esquina",
+  "shortName": "La Esquina",
+  "tagline": "Lo de siempre, al lado de casa",
+  "logoTitle": {
+    "top": "BODEGA",
+    "bottom": "LA ESQUINA"
+  },
+  "address": "Calzada de 10 de Octubre, Santos Suárez, La Habana",
+  "addressLines": [
+    "Calzada de 10 de Octubre",
+    "Santos Suárez, La Habana"
+  ],
+  "pickupPoint": "Bodega La Esquina · Santos Suárez",
+  "whatsapp": "5355112233",
+  "hours": "De 8:00 a. m. a 7:00 p. m.",
+  "instagram": "https://www.instagram.com/bodegalaesquina/",
+  "currency": "CUP",
+  "locale": "es-CU",
+  "seo": {
+    "title": "Bodega La Esquina — Santos Suárez",
+    "description": "Lo de siempre, al lado de casa."
+  },
+  "hero": {
+    "line1": "Lo de siempre,",
+    "line2": "al lado de casa.",
+    "subtitle": "Pide desde el móvil y recoge cuando pases.",
+    "cta": "Ver productos",
+    "alt": "Fachada de Bodega La Esquina"
+  },
+  "catalogIntro": {
+    "eyebrow": "NUESTRO SURTIDO",
+    "allTitle": "Todo lo que tenemos"
+  },
+  "theme": {
+    "ink": "#2b1f17",
+    "primary": "#8c3b12",
+    "accent": "#d98324",
+    "mint": "#f6e7d7",
+    "assistant": "#b4531f",
+    "assistantDark": "#8c3b12",
+    "assistantInk": "#8c3b12",
+    "assistantBorder": "#e8b58c",
+    "assistantSoft": "#fdf1e7",
+    "assistantSoftHover": "#f8e2cf",
+    "secondary": "#b4531f"
+  },
+  "assistant": {
+    "name": "Yuni",
+    "avatar": "",
+    "role": "Asistente de Bodega La Esquina",
+    "greeting": "¡Qué bola! Soy Yuni 👋",
+    "greetingSub": "¿Qué necesitas hoy?",
+    "intro": "Puedo ayudarte a buscar productos, armar tu compra, ver opciones de envío o resolver cualquier duda. ¡Estoy aquí para ti! 💙",
+    "closing": "De la esquina, para tu casa ♡",
+    "persona": "asistente de {name}, {address}. Responde en español breve, cálido y resolutivo.",
+    "nudge": "Hola Yuni"
+  },
+  "orderTitle": "BODEGA LA ESQUINA",
+  "orderPrefix": "ESQ",
+  "footerNote": "Precios y surtido de la bodega. Confirmamos al recibir el pedido.",
+  "shippingRates": {
+    "Arroyo Naranjo|Poey": 2000,
+    "Arroyo Naranjo|Santa Amalia": 1900,
+    "Arroyo Naranjo|Mantilla": 2500
+  },
+  "shippingSource": "EJEMPLO — sustituir por las tarifas reales del negocio"
+}

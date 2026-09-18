@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "descripcion": "Fotos de productos de marca, reutilizables por cualquier negocio.",
+  "regla": "Solo productos de marca. Lo del mostrador (carne cortada, quesos en bloque) es de cada negocio y no entra aquí.",
+  "productos": [
+    {
+      "slug": "nectar-tropical",
+      "nombre": "Néctar Tropical",
+      "marca": "Goliath",
+      "presentacion": "Goliath · Cartón 1 L",
+      "categoria": "Bebidas",
+      "imagen": "img/nectar-tropical.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "nectar-guayaba",
+      "nombre": "Néctar de guayaba",
+      "marca": "Goliath",
+      "presentacion": "Goliath · Cartón 1 L",
+      "categoria": "Bebidas",
+      "imagen": "img/nectar-guayaba.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "nectar-pina",
+      "nombre": "Néctar de piña",
+      "marca": "Goliath",
+      "presentacion": "Goliath · Cartón 1 L",
+      "categoria": "Bebidas",
+      "imagen": "img/nectar-pina.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "jugo-estancia-naranja",
+      "nombre": "Jugo de naranja",
+      "marca": "La Estancia",
+      "presentacion": "La Estancia · Cartón 200 mL",
+      "categoria": "Bebidas",
+      "imagen": "img/jugo-estancia-naranja.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "jugo-estancia-guayaba",
+      "nombre": "Néctar de guayaba pequeño",
+      "marca": "La Estancia",
+      "presentacion": "La Estancia · Cartón 200 mL",
+      "categoria": "Bebidas",
+      "imagen": "img/jugo-estancia-guayaba.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "jugo-mozo-rojo",
+      "nombre": "Bebida de frutas sabor rojo",
+      "marca": "Mozo Juice",
+      "presentacion": "Mozo Juice · Cartón 200 mL",
+      "categoria": "Bebidas",
+      "imagen": "img/jugo-mozo-rojo.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "jugo-mozo-tropical",
+      "nombre": "Jugo Tropical",
+      "marca": "Mozo Juice",
+      "presentacion": "Mozo Juice · Cartón 200 mL",
+      "categoria": "Bebidas",
+      "imagen": "img/jugo-mozo-tropical.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "jugo-mozo-mango",
+      "nombre": "Jugo de mango",
+      "marca": "Mozo Juice",
+      "presentacion": "Mozo Juice · Cartón 200 mL",
+      "categoria": "Bebidas",
+      "imagen": "img/jugo-mozo-mango.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "albondigas-congeladas",
+      "nombre": "Albóndigas congeladas",
+      "marca": "Karmac",
+      "presentacion": "Karmac · Bolsa",
+      "categoria": "Carnes y Embutidos",
+      "imagen": "img/albondigas-congeladas.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "hamburguesas-congeladas",
+      "nombre": "Hamburguesas congeladas",
+      "marca": "Karmac",
+      "presentacion": "Karmac · Paquete 500 g · 6 unidades",
+      "categoria": "Carnes y Embutidos",
+      "imagen": "img/hamburguesas-congeladas.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "belga-star",
+      "nombre": "Belga Star",
+      "marca": "Belga Star",
+      "presentacion": "Botella 33 cl",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/belga-star.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "casillero-blanco",
+      "nombre": "Casillero del Diablo blanco",
+      "marca": "Concha y Toro",
+      "presentacion": "Concha y Toro · Sauvignon Blanc",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/casillero-blanco.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "casillero-tinto",
+      "nombre": "Casillero del Diablo tinto",
+      "marca": "Concha y Toro",
+      "presentacion": "Concha y Toro · Cabernet Sauvignon",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/casillero-tinto.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "cristal-extra",
+      "nombre": "Cristal Extra",
+      "marca": "Cristal",
+      "presentacion": "Botella",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/cristal-extra.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "frontera-carmenere",
+      "nombre": "Frontera Carmenere",
+      "marca": "Frontera",
+      "presentacion": "Frontera · Botella",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/frontera-carmenere.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "frontera-chardonnay",
+      "nombre": "Frontera Chardonnay",
+      "marca": "Frontera",
+      "presentacion": "Frontera · Botella",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/frontera-chardonnay.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "frontera-sauvignon",
+      "nombre": "Frontera Sauvignon Blanc",
+      "marca": "Frontera",
+      "presentacion": "Frontera · Botella",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/frontera-sauvignon.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "heineken",
+      "nombre": "Heineken",
+      "marca": "Heineken",
+      "presentacion": "Botella",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/heineken.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "baronne-tinto",
+      "nombre": "La Baronne tinto",
+      "marca": "La Baronne",
+      "presentacion": "Botella",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/baronne-tinto.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "trapiche-malbec",
+      "nombre": "Trapiche Malbec",
+      "marca": "Trapiche",
+      "presentacion": "Trapiche Varietals · Botella",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/trapiche-malbec.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "trapiche-blanco",
+      "nombre": "Trapiche blanco",
+      "marca": "Trapiche",
+      "presentacion": "Trapiche Vineyards · Botella",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/trapiche-blanco.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "trapiche-tinto",
+      "nombre": "Trapiche tinto",
+      "marca": "Trapiche",
+      "presentacion": "Trapiche Vineyards · Malbec",
+      "categoria": "Cervezas y Vinos",
+      "imagen": "img/trapiche-tinto.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "aceitunas-verdes",
+      "nombre": "Aceitunas verdes",
+      "marca": "Benimar",
+      "presentacion": "Benimar · Lata 2,35 kg",
+      "categoria": "Despensa y Conservas",
+      "imagen": "img/aceitunas-verdes.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "champinones-lata",
+      "nombre": "Champiñones en conserva",
+      "marca": "Celorrio",
+      "presentacion": "Celorrio · Lata",
+      "categoria": "Despensa y Conservas",
+      "imagen": "img/champinones-lata.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "jamon-lata",
+      "nombre": "Jamón cocido en lata",
+      "marca": "Iberia",
+      "presentacion": "Iberia · Lata",
+      "categoria": "Despensa y Conservas",
+      "imagen": "img/jamon-lata.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "frijoles-blancos",
+      "nombre": "Frijoles blancos",
+      "marca": "Peñalba",
+      "presentacion": "Peñalba · Bolsa",
+      "categoria": "Despensa y Conservas",
+      "imagen": "img/frijoles-blancos.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "frijoles-negros",
+      "nombre": "Frijoles negros",
+      "marca": "Peñalba",
+      "presentacion": "Peñalba · Bolsa 500 g",
+      "categoria": "Despensa y Conservas",
+      "imagen": "img/frijoles-negros.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "lentejas",
+      "nombre": "Lentejas",
+      "marca": "Peñalba",
+      "presentacion": "Peñalba · Bolsa 500 g",
+      "categoria": "Despensa y Conservas",
+      "imagen": "img/lentejas.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "cappuccino-candy",
+      "nombre": "Cappuccino Candy",
+      "marca": "Fiesta",
+      "presentacion": "Fiesta · Bolsa",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/cappuccino-candy.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "caramelos-mint",
+      "nombre": "Caramelos Mint",
+      "marca": "Fiesta",
+      "presentacion": "Fiesta · Bolsa",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/caramelos-mint.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "caramelos-eclair",
+      "nombre": "Caramelos Éclair",
+      "marca": "Frutika",
+      "presentacion": "Frutika · Bolsa",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/caramelos-eclair.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "cinnamon-crisps",
+      "nombre": "Cinnamon Crisps",
+      "marca": "Gullón",
+      "presentacion": "Gullón · Caja 200 g",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/cinnamon-crisps.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "papas-lays",
+      "nombre": "Papas fritas Lay's",
+      "marca": "Lay's",
+      "presentacion": "Clásicas · Bolsa 170 g",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/papas-lays.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "chocolate-milka",
+      "nombre": "Chocolate Milka",
+      "marca": "Milka",
+      "presentacion": "Tableta",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/chocolate-milka.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "oli-surtidas",
+      "nombre": "Galletas Oli surtidas",
+      "marca": "Oli",
+      "presentacion": "Caja 15 g · sabores variados",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/oli-surtidas.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "coffee-candy",
+      "nombre": "Coffee Candy",
+      "marca": "Richto",
+      "presentacion": "Richto · Bolsa",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/coffee-candy.webp",
+      "origen": "Mercado 23 y 28"
+    },
+    {
+      "slug": "butter-milky-candy",
+      "nombre": "Butter Milky Candy",
+      "marca": "Ricolino",
+      "presentacion": "Ricolino · Bolsa",
+      "categoria": "Snacks y Dulces",
+      "imagen": "img/butter-milky-candy.webp",
+      "origen": "Mercado 23 y 28"
+    }
+  ]
+}
