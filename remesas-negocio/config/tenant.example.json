@@ -1,0 +1,29 @@
+{
+  "brand": {
+    "name": "Nombre del negocio",
+    "displayName": "Nombre del negocio",
+    "tagline": "Cerca, aunque estén lejos.",
+    "primaryColor": "#0B2D5B",
+    "accentColor": "#1479D1"
+  },
+  "contact": {
+    "whatsapp": "",
+    "email": null,
+    "address": null,
+    "groupInviteUrl": null
+  },
+  "legal": {
+    "legalName": null,
+    "registration": null,
+    "address": null
+  },
+  "operation": {
+    "verificationRequiredBeforeFirstTransfer": true,
+    "receiptDownloadEnabled": true,
+    "publicTrackingEnabled": true,
+    "referralsEnabled": true
+  },
+  "sourceCurrencies": [],
+  "paymentMethods": [],
+  "payoutMethods": []
+}
