@@ -11,6 +11,7 @@ logotipo, cómo se fotografía un producto, cómo se lee un catálogo — vive e
 
 ```
 tienda-barrio/            la tienda de bodega o mercado
+remesas-negocio/          web, panel y Cuadre para un negocio de remesas
 banco-productos/          fotos de productos de marca, compartidas
 .claude/skills/           las instrucciones que sigue la IA
 ```
@@ -91,4 +92,4 @@ ese centinela, una plantilla se ensucia en tres negocios y deja de servir.
 | Banco de fotos | 37 productos, 23 marcas |
 | Skill de alta | escrita, falta estrenarla con un negocio nuevo |
 | Plantilla de servicios (tipo NEXO) | pendiente |
-| Plantilla de remesas (tipo Cuyana) | pendiente |
+| Plantilla de remesas (tipo Cuyana) | contrato y skill definidos; implementación en curso |
