@@ -1,0 +1,43 @@
+{
+  "brand": {
+    "name": "curuguay",
+    "displayName": "Curuguay",
+    "tagline": "Cerca, aunque estén lejos.",
+    "primaryColor": "#0B2D5B",
+    "accentColor": "#1479D1",
+    "secondaryColor": "#E53935"
+  },
+  "contact": {
+    "whatsapp": "5354056173",
+    "email": null,
+    "address": null,
+    "groupInviteUrl": null
+  },
+  "legal": {
+    "legalName": null,
+    "registration": null,
+    "address": null
+  },
+  "operation": {
+    "verificationRequiredBeforeFirstTransfer": true,
+    "receiptDownloadEnabled": true,
+    "publicTrackingEnabled": true,
+    "referralsEnabled": true
+  },
+  "sourceCurrencies": [
+    { "code": "UYU", "label": "Peso uruguayo", "active": true },
+    { "code": "USD", "label": "Dólar estadounidense", "active": true }
+  ],
+  "paymentMethods": [
+    { "key": "bank_transfer", "label": "Transferencia bancaria", "active": true },
+    { "key": "cash", "label": "Efectivo", "active": false },
+    { "key": "other", "label": "Otro acordado", "active": false }
+  ],
+  "payoutMethods": [
+    { "key": "usd_cash", "currency": "USD", "label": "USD efectivo", "active": true },
+    { "key": "cup_cash", "currency": "CUP", "label": "CUP efectivo", "active": true },
+    { "key": "cup_transfer", "currency": "CUP", "label": "Transferencia en CUP", "active": true },
+    { "key": "mlc_card", "currency": "MLC", "label": "Tarjeta MLC", "active": false },
+    { "key": "clasica_card", "currency": "USD", "label": "Tarjeta Clásica", "active": false }
+  ]
+}
